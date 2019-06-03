@@ -21,6 +21,8 @@
   okay on one device but may look a bit grim on something with a different pixel density.The number of pixels per inch
   varies from one device to another and that can result in our image appearing in different sizes relative to the size of
   the screen.So thats why both these terms are used.hope its helpful.
+
+
 4. in last just created today a new layout page note_layout.
    added there some new controlls like slider , buttons ,imageview.
    great experience.cheers.. :)
