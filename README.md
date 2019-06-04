@@ -13,9 +13,9 @@
   just adding these to my repo incase somebodys also a beginner might find this helpful.
   so basically we have here 2 terms:
 
-  a) dp-device independent pixels(used for resizing the widgets/the contols.)
+    a) dp-device independent pixels(used for resizing the widgets/the contols.)
 
-  b) sp scale independent pixels(used for resizing the fonts or the texts written in our apps)
+    b) sp scale independent pixels(used for resizing the fonts or the texts written in our apps)
 
   reason behind using these instead of the basic terms pixels is-if we've specified dimensions in pixels our image may look
   okay on one device but may look a bit grim on something with a different pixel density.The number of pixels per inch
@@ -23,9 +23,15 @@
   the screen.So thats why both these terms are used.hope its helpful.
 
 
-4. in last just created today a new layout page note_layout.
-   added there some new controlls like slider , buttons ,imageview.
+4. In last just created today a new layout page note_layout.
+   added there some new controlls like scroller , buttons ,imageview.
+   nd at last just removed basic errors from the app.
    great experience.cheers.. :)
+   leaving this project for now just going to get some more knolwedge on java first before 
+   jumping into complex part as java is core for android programming and basic understanding for this needed.
 
 
-  by eshan_behal
+    	GOOD BYE FOR NOW COMING SOON TO THIS REPO VERY SOON.:):)
+
+
+    by Eshan_Behal
